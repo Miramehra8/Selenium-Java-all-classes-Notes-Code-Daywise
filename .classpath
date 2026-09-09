@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/byte-buddy-1.18.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/error_prone_annotations-2.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/failureaccess-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/guava-33.6.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/j2objc-annotations-2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/jspecify-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/opentelemetry-api-1.65.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/opentelemetry-common-1.65.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/opentelemetry-context-1.65.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/opentelemetry-exporter-logging-1.65.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/opentelemetry-sdk-1.65.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/opentelemetry-sdk-common-1.65.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/opentelemetry-sdk-extension-autoconfigure-1.65.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/opentelemetry-sdk-extension-autoconfigure-spi-1.65.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/opentelemetry-sdk-logs-1.65.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/opentelemetry-sdk-metrics-1.65.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/opentelemetry-sdk-trace-1.65.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-api-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-chrome-driver-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-chromium-driver-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-devtools-latest-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-devtools-v150-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-devtools-v151-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-devtools-v152-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-edge-driver-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-firefox-driver-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-http-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-ie-driver-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-java-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-json-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-manager-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-os-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-remote-driver-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-safari-driver-4.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/91799/Desktop/seleniumprojectown/JAVA_CLIENT_LIB/selenium-java-4.48.0/other/selenium-support-4.48.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
