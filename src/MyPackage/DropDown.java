@@ -45,5 +45,6 @@ public class DropDown {
 		{
 			System.out.println(el.getText());
 		}
+		driver.close();
 	}
 }
