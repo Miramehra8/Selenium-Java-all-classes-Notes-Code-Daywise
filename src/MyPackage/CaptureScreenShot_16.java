@@ -21,7 +21,7 @@ public class CaptureScreenShot_16 {
 		// maximize browser
 		driver.manage().window().maximize();
 
-		// open url //this site not working
+		// open url 
 		driver.get("http://www.uitestingplayground.com/");
 
 	/*	
