@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-21T23:10:13 IST" name="Default suite" finished-at="2026-09-21T23:10:32 IST" duration-ms="19076">
+    <groups>
+    </groups>
+    <test started-at="2026-09-21T23:10:13 IST" name="Default test" finished-at="2026-09-21T23:10:32 IST" duration-ms="19076">
+      <class name="MyPackage.TestNGDemo_26">
+        <test-method signature="verifyPageTitle()[pri:0, instance:MyPackage.TestNGDemo_26@59402b8f]" started-at="2026-09-21T23:10:13 IST" name="verifyPageTitle" finished-at="2026-09-21T23:10:32 IST" duration-ms="18974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+      </class> <!-- MyPackage.TestNGDemo_26 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
